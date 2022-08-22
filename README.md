@@ -97,10 +97,10 @@ INFO:fbprophet.forecaster:Disabling daily seasonality. Run prophet with daily_se
 ![image](https://user-images.githubusercontent.com/111698968/185920942-c26adaf8-eea0-4cb9-bd0d-f1ee18c3e9d0.png)
 
 <li><h3>Forecast Plot</h3></li>
-![image](https://user-images.githubusercontent.com/111698968/185921047-97a4e5d8-c36b-44f3-8509-b0af2ce837fb.png)
+ <img width="628" alt="image" src="https://user-images.githubusercontent.com/111698968/185923251-f2815d98-9cc2-4c04-9ed6-0e87d342e487.png">
 
 <li><h2>VI. Keras Starter</h2></li>
 In this part we will use Keras without optimisation to forecast. It is just a very simple code to begin with Keras and a Time Series. For our example we will try just with one layer and 8 Neurons.
-![image](https://user-images.githubusercontent.com/111698968/185921167-c1abbdc6-f988-45bd-99a4-f42b144f66b6.png)
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/111698968/185921167-c1abbdc6-f988-45bd-99a4-f42b144f66b6.png">
 
 
